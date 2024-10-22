@@ -1,0 +1,14 @@
+Y:\TerminalStuff\ProcessNotifier\PNotifier\bin\Release\net8.0\PNotifier.exe
+Y:\TerminalStuff\ProcessNotifier\PNotifier\bin\Release\net8.0\PNotifier.deps.json
+Y:\TerminalStuff\ProcessNotifier\PNotifier\bin\Release\net8.0\PNotifier.runtimeconfig.json
+Y:\TerminalStuff\ProcessNotifier\PNotifier\bin\Release\net8.0\PNotifier.dll
+Y:\TerminalStuff\ProcessNotifier\PNotifier\bin\Release\net8.0\PNotifier.pdb
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\PNotifier.GeneratedMSBuildEditorConfig.editorconfig
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\PNotifier.AssemblyInfoInputs.cache
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\PNotifier.AssemblyInfo.cs
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\PNotifier.csproj.CoreCompileInputs.cache
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\PNotifier.dll
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\refint\PNotifier.dll
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\PNotifier.pdb
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\PNotifier.genruntimeconfig.cache
+Y:\TerminalStuff\ProcessNotifier\PNotifier\obj\Release\net8.0\ref\PNotifier.dll
