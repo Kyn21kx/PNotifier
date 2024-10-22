@@ -18,6 +18,6 @@ Just precede any command you want to run with `PNotifier`, i.e.
 PNotifier gcc someFile.cpp
 
 # Update / install dependencies
-npm install -g somePackage
+PNotifier npm install -g somePackage
 ```
 
